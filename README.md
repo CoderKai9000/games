@@ -4,8 +4,8 @@
 ```pip install pygame```
 
 ### run:
-```python asteroid.py``` and ```python pong.py```
+```python <file_name>.py```
 
 or
 
-```python3 asteroid.py``` and ```python3 pong.py```
+```python3 <file_name>.py```
